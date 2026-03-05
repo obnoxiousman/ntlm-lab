@@ -1,7 +1,7 @@
 ###################
  DES in C
 ###################
-C implementation of Data Encryption Standard algorithm.
+C implementation of Data Encryption Standard algorithm. |br|
 Did you come here from https://obman.pikapod.net/books/active-directory/page/understanding-ntlm ?
 
 Overview
@@ -23,3 +23,9 @@ Say we want to encrypt/ decrypt a file named /home/user/sample.txt
 
     run_des.o 
 2. You can change the hard coded value of `nthash` in `run_des.c` ::
+
+###################
+ NTLMv2.py
+###################
+
+Python implementation of ntlmv2 to understand the computation of NTLMv2 response
